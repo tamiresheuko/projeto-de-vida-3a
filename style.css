@@ -33,11 +33,13 @@
     color:var(--verde);
 }
     .botoes{
-        font-family:'chakara petch',sans-serif ;
-        background-color:var(--botao-inativo);
-        color:var(--branco);
-
+    font-family:'chakara petch',sans-serif ;
+    background-color:var(--botao-inativo);
+    color:var(--branco);
     display:flex;
     justify-content: center;
     padding:lem;
     font-size:18px;
+    width: 100%;
+    border-bottom: 4px solid var(--botao-ativo);
+    border-bottom: 4px  solid var(--botao-inativo);
