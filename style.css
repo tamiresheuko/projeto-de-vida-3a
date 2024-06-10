@@ -36,5 +36,8 @@
         font-family:'chakara petch',sans-serif ;
         background-color:var(--botao-inativo);
         color:var(--branco);
-    }
 
+    display:flex;
+    justify-content: center;
+    padding:lem;
+    font-size:18px;
